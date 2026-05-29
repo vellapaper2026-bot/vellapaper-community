@@ -1,0 +1,11 @@
+{
+  "name": "vellapaper-backend",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "firebase-admin": "^11.11.0"
+  }
+}
